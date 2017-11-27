@@ -1,0 +1,20 @@
+{
+  "name": "template-react",
+  "version": "0.0.1",
+  "description": "A react template for seven-cli",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanzhaohao/template-react.git"
+  },
+  "keywords": [
+    "react",
+    "cli"
+  ],
+  "author": "yuanzhaohao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuanzhaohao/template-react/issues"
+  },
+  "homepage": "https://github.com/yuanzhaohao/template-react#readme"
+}
